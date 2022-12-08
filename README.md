@@ -11,4 +11,4 @@ and the model shoud learn to classify those images.
 
 The model is implemented with Convolutional Neural Network (CNNs)
 
-![Alt text](Sample of predictions the model made.jpg=true "Prediction of the model")
+
